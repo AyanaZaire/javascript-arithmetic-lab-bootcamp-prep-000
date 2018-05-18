@@ -20,7 +20,6 @@ function inc(n){
 }
 
 function dec(n){
-  var number = 10
-  number --
-  return 9
+  n --
+  return n
 }
