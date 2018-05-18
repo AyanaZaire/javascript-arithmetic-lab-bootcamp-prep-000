@@ -13,3 +13,15 @@ function multiply(a, b){
 function divide(a, b){
   return a / b 
 }
+
+function inc(n){
+  var number = 10
+  number ++
+  return 10
+}
+
+function dec(n){
+  var number = 10
+  number --
+  return 9
+}
